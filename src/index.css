@@ -1,0 +1,8 @@
+@import url("./app.css");
+@import url("./components/nav/nav.css");
+body,
+html,
+#root {
+  padding: 0;
+  margin: 0;
+}
